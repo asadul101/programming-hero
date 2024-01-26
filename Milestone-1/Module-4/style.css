@@ -1,10 +1,38 @@
-body{
+body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
-h1{
+
+h1 {
     font-size: 50px;
 }
-.oringe{
+
+.oringe {
     color: orange;
 }
 
+section {
+    display: flex;
+}
+
+.asad {
+    width: 50%;
+    padding-left: 2%;
+}
+
+.asad img {
+    width: 80%;
+}
+
+.rana {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: #fff;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.top{
+    background-image:url(./images/top-banner.png) ;
+    background-repeat: no-repeat;
+}
