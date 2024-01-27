@@ -1,0 +1,112 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.oringe {
+    color: orange;
+}
+
+.section {
+    display: flex;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.skip {
+    width: 50%;
+    margin: 20px;
+    margin: auto;
+}
+
+img {
+    width: 500px;
+    margin-top: 25px;
+    margin-right: 0px;
+    position: relative;
+    /* margin-top: 10px; */
+}
+
+.firstimg {
+    background-image: url('./shapes/Group\ 8447.png');
+    background-repeat: no-repeat;
+    background-size: 450px;
+    position: relative;
+
+}
+
+.button {
+    /* background-color: orange; */
+    background: linear-gradient(to left, rgb(255, 88, 27), rgb(241, 222, 75));
+    height: 70px;
+    width: 200px;
+    border-radius: 50px;
+    font-size: 25px;
+    font-weight: bold;
+    border: none;
+}
+
+.button>a {
+    text-decoration: none;
+}
+
+.frmal {
+    width:300px ;
+    height: 482px;
+    margin:118px;
+    /* margin:118px; */
+    /* margin-right: 31px; */
+}
+
+.rana {
+    display: flex;
+}
+.anout{
+    width: 50%;
+    margin: 20px;
+    margin: auto;
+}
+.rana {
+    background-image: url(./shapes/7.png);
+    background-repeat: no-repeat;
+    margin-top: 100px;
+    
+}
+/* .My-recipies{
+    text-align: center;
+} */
+.Recipie-title{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+.img-size{
+    width: 500px;
+}
+.box-shado{
+    width:500px;
+    border: 2px solid #fff;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: -2px 3px 14px 0px rgba(0,0,0,0.73);
+    border-radius: 20px;
+}
+.socile{
+    display: flex;
+    justify-content: center;
+    width: auto;
+    box-shadow: -2px 3px 14px 0px rgba(0,0,0,0.73);
+    height: 100px;
+    border-radius: 10px;
+}
+.socile li{
+    list-style: none;
+    margin: auto;
+    text-align: center;
+   font-weight: 700;
+    display: inline-block;   
+}
+.Hello{
+    text-align: center;
+}
